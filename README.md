@@ -11,7 +11,7 @@
 - [Resource3](youtube.com/watch?v=pTB0EiLXUC8)
 - [Resource4](https://www.youtube.com/watch?v=JeznW_7DlB0)
 - [Resource5](https://www.geeksforgeeks.org/python-assertion-error/)
-- [PR Link]()
+- [PR Link](https://github.com/tareqzoubii/pythonic-garage-band/pull/1)
 
 ### Setup
 - python3 -m venv .venv
